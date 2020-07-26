@@ -3,6 +3,47 @@
         "Latitude": 40.420322,
         "Longitude": -3.703488,
         "Name": "Gran Vía, Madrid"
+    },
+    {
+        "Latitude": 42.262179,
+        "Longitude": -2.764336,
+        "Name": "Anguiano, La Rioja"
+    },
+    {
+        "Latitude": 39.462248,
+        "Longitude": -0.373901,
+        "Name": "Cadiz, Valencia"
+    },
+    {
+        "Latitude": 42.461284,
+        "Longitude": -2.448128,
+        "Name": "Pérez Galdós, Logroño"
+    },
+    {
+        "Latitude": 38.343748,
+        "Longitude": -0.483481,
+        "Name": "Méndez Núñez, Alicante"
+    },
+    {
+        "Latitude": 41.654585,
+        "Longitude": -0.886067,
+        "Name": "Miguel de Ara, Zaragoza"
+    },
+    {
+        "Latitude": 42.218929,
+        "Longitude": -2.667082,
+        "Name": "Nieva de Cameros, La Rioja"
+    },
+    {
+        "Latitude": 38.781049,
+        "Longitude": -0.440511,
+        "Name": "Muro de Alcoy, Alicante"
+    }
+    ,
+    {
+        "Latitude": 40.017272,
+        "Longitude": -0.697707,
+        "Name": "Barracas, Castellón"
     }
     
 ]
