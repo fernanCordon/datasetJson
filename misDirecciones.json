@@ -2,41 +2,46 @@
     {
         "Latitude": 40.420322,
         "Longitude": -3.703488,
-        "Name": "Gran Vía, Madrid"
+        "Name": "Madrid"
     },
     {
         "Latitude": 42.262179,
         "Longitude": -2.764336,
-        "Name": "Anguiano, La Rioja"
+        "Name": "Anguiano"
     },
     {
         "Latitude": 39.460773,
         "Longitude": -0.372834,
-        "Name": "Cadiz, Valencia"
+        "Name": "Valencia"
     },
     {
         "Latitude": 42.461284,
         "Longitude": -2.448128,
-        "Name": "Pérez Galdós, Logroño"
+        "Name": "Logroño"
     },
     {
         "Latitude": 41.654585,
         "Longitude": -0.886067,
-        "Name": "Miguel de Ara, Zaragoza"
+        "Name": "Zaragoza"
     },
     {
-        "Latitude": 42.218929,
-        "Longitude": -2.667082,
-        "Name": "Nieva de Cameros, La Rioja"
+        "Latitude": 40.947558,
+        "Longitude": -4.118576,
+        "Name": "Segovia"
     },
     {
         "Latitude": 40.017272,
         "Longitude": -0.697707,
-        "Name": "Barracas, Castellón"
+        "Name": "Barracas"
     },
     {
         "Latitude": 40.936717,
         "Longitude": -1.065904,
-        "Name": "Jiloca, Teruel"
+        "Name": "Jiloca"
+    },
+    {
+        "Latitude": 38.86774,
+        "Longitude": -1.094604,
+        "Name": "Almansa"
     }
 ]
