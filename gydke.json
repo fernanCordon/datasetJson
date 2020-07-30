@@ -4,9 +4,9 @@
         {
             "name":"python",
             "children":[
-                {"name":"De .NET a Python. ¿Dónde están mis cosas?","size":27},
-                {"name":"Machine Learning para optimizar imágenes","size":47},
-                {"name":"Clean code en la práctica","size":185}
+                {"name":"Python crece sin parar","size":27},
+                {"name":"Machine Learning para imágenes","size":47},
+                {"name":"Apps y webs con Django ","size":185}
             ]
         },
         {"name":"javascript",
@@ -14,15 +14,15 @@
                 {
                     "name":"web",
                     "children":[
-                        {"name":"Desarrollo seguro en NodeJs","size":84},
-                        {"name":"60 Frames of Animations","size":57},
-                        {"name":"Desarrolla un chatbot para que trabaje por ti","size":141}
+                        {"name":"Visualización de datos con D3","size":84},
+                        {"name":"Animaciones con Javascript","size":57},
+                        {"name":"Desarrolla un chatbot","size":141}
                     ]
                 },
                 {
                     "name":"mobile",
                     "children":[
-                        {"name":"Extiende al asistente","size":26}
+                        {"name":"Apps con Javascript","size":26}
                     ]
                 }
             ]
