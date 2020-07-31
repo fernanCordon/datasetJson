@@ -5,7 +5,7 @@
             "name":"python",
             "children":[
                 {"name":"Python crece sin parar","size":27},
-                {"name":"Machine Learning para imágenes","size":47},
+                {"name":"Machine Learning","size":47},
                 {"name":"Apps y webs con Django ","size":185}
             ]
         },
